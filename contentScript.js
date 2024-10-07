@@ -1,0 +1,1 @@
+// This file is intentionally left empty as we don't need any content script functionality for this extension.
